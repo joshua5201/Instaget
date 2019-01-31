@@ -1,5 +1,3 @@
-package jp.co.calace;
-
 import java.io.*;
 import java.util.List;
 
